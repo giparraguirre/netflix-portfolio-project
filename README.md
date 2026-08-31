@@ -2,7 +2,7 @@
 
 An end-to-end data analysis project exploring Netflix's content catalog (2008–2021) using Python, SQL, and Tableau. This project covers the full pipeline: raw data cleaning, exploratory analysis, SQL querying, and interactive dashboard visualization.
 
-**[View the live Tableau dashboard →](your-tableau-public-link-here)**
+**[View the live Tableau dashboard →](https://public.tableau.com/views/NetflixContentAnalysis20082021/NetflixContentAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ![Dashboard Preview](outputs/dashboard_preview.png)
 
@@ -75,7 +75,7 @@ netflix-portfolio-project/
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/giparraguirre/netflix-portfolio-project.git
 cd netflix-portfolio-project
 
 # Set up environment
@@ -89,4 +89,4 @@ jupyter notebook notebooks/01_clean_explore.ipynb
 
 ## Author
 
-Gianmarco Iparraguirre — [https://www.linkedin.com/in/gianmarcoiparraguirre/] · [https://github.com/giparraguirre]
+Gianmarco Iparraguirre — [LinkedIn](https://www.linkedin.com/in/gianmarcoiparraguirre/) · [GitHub](https://github.com/giparraguirre)
