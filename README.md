@@ -28,24 +28,25 @@ Source: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/ne
 
 ## Project Structure
 
+​```
 netflix-portfolio-project/
 ├── data/
-│ ├── raw/
-│ │ └── netflix_titles.csv # Original Kaggle dataset
-│ └── processed/
-│ └── netflix.db # SQLite database (derived, gitignored)
+│   ├── raw/
+│   │   └── netflix_titles.csv          # Original Kaggle dataset
+│   └── processed/
+│       └── netflix.db                  # SQLite database (derived, gitignored)
 ├── notebooks/
-│ └── 01_clean_explore.ipynb # Full pandas cleaning + exploration workflow
+│   └── 01_clean_explore.ipynb          # Full pandas cleaning + exploration workflow
 ├── sql/
-│ └── queries.sql # SQL versions of the core analysis questions
+│   └── queries.sql                     # SQL versions of the core analysis questions
 ├── outputs/
-│ ├── netflix_titles_cleaned.csv # Full cleaned dataset
-│ ├── titles_by_year_and_type.csv # Q1 summary
-│ ├── genre_trend_by_year.csv # Q2 summary
-│ └── top_countries.csv # Q4 summary
+│   ├── netflix_titles_cleaned.csv      # Full cleaned dataset
+│   ├── titles_by_year_and_type.csv     # Q1 summary
+│   ├── genre_trend_by_year.csv         # Q2 summary
+│   └── top_countries.csv               # Q4 summary
 ├── requirements.txt
 └── README.md
-
+​```
 
 ## Process
 
