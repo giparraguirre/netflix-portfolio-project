@@ -28,7 +28,7 @@ Source: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/ne
 
 ## Project Structure
 
-​```
+```
 netflix-portfolio-project/
 ├── data/
 │   ├── raw/
@@ -46,7 +46,7 @@ netflix-portfolio-project/
 │   └── top_countries.csv               # Q4 summary
 ├── requirements.txt
 └── README.md
-​```
+```
 
 ## Process
 
